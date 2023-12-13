@@ -1,3 +1,5 @@
+# Author: Patrycja Zaborek-Szczerba
+
 def wisielec():
 
     punktacja = 10
